@@ -1,0 +1,45 @@
+#supra {
+  border-color: pink;
+  align-items: center;
+}
+
+#supra:hover{
+  width: 720px;
+  border-radius: 15px;
+  border-color: #4ee44e;
+}
+
+#bmw {
+  border-color: orange;
+}
+
+#bmw:hover{
+  width: 720px;
+  border-radius: 15px;
+  border-color: #4ee44e;
+}
+
+.headings {
+  font-style: italic;
+}
+
+.prices {
+  font-style: oblique;
+}
+
+a:visited {
+  color: orange;
+}
+
+h1{
+  font-family: arial black;
+}
+
+#submit-button:hover{
+  background-color: orange;
+  color: white;
+}
+
+input:focus{
+  background-color: #4ee44e;
+}
